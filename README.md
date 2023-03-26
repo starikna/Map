@@ -1,6 +1,6 @@
 #Badges
 
-[![Build status](https://ci.appveyor.com/api/projects/status/0frvlnxy685boyko?svg=true)](https://ci.appveyor.com/project/starikna/set)
+[![Build status](https://ci.appveyor.com/api/projects/status/gt3l7xpyc38frwjg?svg=true)](https://ci.appveyor.com/project/starikna/map)
 
 Легенда
 Игрок может выбирать персонажей в команду на конкретный раунд исходя из их текущего состояния, 
